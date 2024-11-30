@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hafta6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07b0a1f1f1956c06c4619e9f0e337534e805ec28")]
 [assembly: System.Reflection.AssemblyProductAttribute("hafta6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hafta6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

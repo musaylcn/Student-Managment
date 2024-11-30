@@ -44,7 +44,7 @@ class Lisans : Ogrenci
 
     public override void BilgiVer()
     {
-        Console.WriteLine($"Ad{Ad},Soyad{Soyad},Numara{Numara},Bolum{Bolum},Yariyil{Yariyil}");
+        Console.WriteLine($"Ad {Ad},Soyad {Soyad},Numara {Numara},Bolum {Bolum},Yariyil {Yariyil}");
     }
     public void DersListesiGoster(){
         Console.WriteLine($"{Ad} icin ders listesi gösteriiliyor");
@@ -65,7 +65,7 @@ class YuksekLisans : Ogrenci
 
     public override void BilgiVer()
     {
-        Console.WriteLine($"Ad{Ad},Soyad{Soyad},Numara{Numara},Bolum{Bolum},Danisman{Danisman}");
+        Console.WriteLine($"Ad {Ad},Soyad {Soyad},Numara {Numara},Bolum {Bolum},Danisman {Danisman}");
     }
     public void DanismanRaporuAl(){
         Console.WriteLine($"{Ad} icin danisman raporu aliniyor");
@@ -87,7 +87,7 @@ class Doktora : Ogrenci
 
     public override void BilgiVer()
     {
-        Console.WriteLine($"Ad{Ad},Soyad{Soyad},Numara{Numara},Bolum{Bolum},Arastirma Alani{ArastirmaAlani}");
+        Console.WriteLine($"Ad {Ad},Soyad {Soyad},Numara {Numara},Bolum {Bolum},Arastirma Alani {ArastirmaAlani}");
     }
     public void DanismanRaporuAl(){
         Console.WriteLine($"{Ad} icin danisman raporu aliniyor");
