@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\bin\Debug\net8.0\hafta6.exe
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\bin\Debug\net8.0\hafta6.deps.json
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\bin\Debug\net8.0\hafta6.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\bin\Debug\net8.0\hafta6.dll
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\bin\Debug\net8.0\hafta6.pdb
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.dll
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\refint\hafta6.dll
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.pdb
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\hafta6.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\drs\nesne\Hafta6\hafta6\obj\Debug\net8.0\ref\hafta6.dll
